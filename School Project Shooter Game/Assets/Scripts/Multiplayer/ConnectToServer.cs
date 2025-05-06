@@ -4,6 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class ConnectToServer : MonoBehaviourPunCallbacks {
 
+    // This script is used to connect to the Photon server, and then its used to join lobbies
 
     void Start() {
 

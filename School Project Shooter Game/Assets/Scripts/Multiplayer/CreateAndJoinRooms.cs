@@ -6,6 +6,9 @@ using TMPro;
 
 public class CreateAndJoinRooms : MonoBehaviourPunCallbacks {
 
+    // This script is for creating and joining multiplayer rooms
+
+    [Header("Input Fields (The areas you write room names)")]
     public TMP_InputField createInput;
     public TMP_InputField joinInput;
 
