@@ -6,7 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MultiplyerRoom.unity
+    path: Assets/Scenes/Loading.unity
+    guid: 1e3947a4601cb3a46a27762ad48f27e3
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 19a1bf25f30c410419c6c68a7d6d2a63
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: b4a6d08bdcafe294b941ece02981fceb
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerRoom.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
