@@ -1,0 +1,585 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.32f1 (b2e806cf271c) revision 11724806'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 16295 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/leona/OneDrive/Dokumenter/GitHub/Shooter-Game/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62045
+-job-worker-count
+2
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/leona/OneDrive/Dokumenter/GitHub/Shooter-Game/My project
+C:/Users/leona/OneDrive/Dokumenter/GitHub/Shooter-Game/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [12452]  Target information:
+
+Player connection [12452]  * "[IP] 192.168.110.28 [Port] 0 [Flags] 2 [Guid] 2270860638 [EditorId] 2270860638 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R02S3ST) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [12452] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [12452] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 2
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.32f1 (b2e806cf271c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/leona/OneDrive/Dokumenter/GitHub/Shooter-Game/My project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   NVIDIA
+    VRAM:     12115 MB
+    Driver:   32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005028 seconds.
+- Loaded All Assemblies, in  0.664 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.047 seconds
+Domain Reload Profiling: 1714ms
+	BeginReloadAssembly (227ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (96ms)
+	LoadAllAssembliesAndSetupDomain (260ms)
+		LoadAssemblies (222ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (257ms)
+			TypeCache.Refresh (246ms)
+				TypeCache.ScanAssembly (208ms)
+			BuildScriptInfoCaches (1ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (1054ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (887ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (74ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (399ms)
+			ProcessInitializeOnLoadAttributes (293ms)
+			ProcessInitializeOnLoadMethodAttributes (112ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (4ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.235 seconds
+Refreshing native plugins compatible for Editor in 176.66 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.377 seconds
+Domain Reload Profiling: 4594ms
+	BeginReloadAssembly (418ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (65ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (58ms)
+	LoadAllAssembliesAndSetupDomain (648ms)
+		LoadAssemblies (625ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (307ms)
+			TypeCache.Refresh (239ms)
+				TypeCache.ScanAssembly (217ms)
+			BuildScriptInfoCaches (58ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (3378ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2724ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (250ms)
+			ProcessInitializeOnLoadAttributes (1470ms)
+			ProcessInitializeOnLoadMethodAttributes (985ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 2.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3704 unused Assets / (1.3 MB). Loaded Objects now: 4188.
+Memory consumption went from 82.0 MB to 80.7 MB.
+Total: 14.106200 ms (FindLiveObjects: 0.788300 ms CreateObjectMapping: 0.706800 ms MarkObjects: 10.835100 ms  DeleteObjects: 1.774200 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3715 unused Assets / (0.9 MB). Loaded Objects now: 4208.
+Memory consumption went from 79.5 MB to 78.7 MB.
+Total: 8.879200 ms (FindLiveObjects: 0.499500 ms CreateObjectMapping: 0.487000 ms MarkObjects: 6.320800 ms  DeleteObjects: 1.570900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 23201.562934 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(289c1b55c9541489481df5cc06664110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(289c1b55c9541489481df5cc06664110) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7e9e64a58fecfdcde77304e1331e7f3') in 0.0357924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.927 seconds
+Refreshing native plugins compatible for Editor in 2.03 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.714 seconds
+Domain Reload Profiling: 1637ms
+	BeginReloadAssembly (275ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (532ms)
+		LoadAssemblies (430ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (251ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (215ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (715ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (575ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (107ms)
+			ProcessInitializeOnLoadAttributes (415ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3722 unused Assets / (1.1 MB). Loaded Objects now: 4212.
+Memory consumption went from 81.7 MB to 80.6 MB.
+Total: 6.368500 ms (FindLiveObjects: 0.449800 ms CreateObjectMapping: 0.795000 ms MarkObjects: 4.002900 ms  DeleteObjects: 1.120000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.071531 seconds.
+  path: Assets/DungeonGenerator-master
+  artifactKey: Guid(517fe28c464bb084d899165010870a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master using Guid(517fe28c464bb084d899165010870a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '715292e2970dd906290dcce558b4db7d') in 0.0021006 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.046527 seconds.
+  path: Assets/DungeonGenerator-master/Assets
+  artifactKey: Guid(6a4934f6bd7982947849b3fa66c3a731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets using Guid(6a4934f6bd7982947849b3fa66c3a731) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb33a52a4354f0023a9bf3e80904b99c') in 0.0005582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051217 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Blue.mat
+  artifactKey: Guid(bd79999920190574a94044b2acad7316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Blue.mat using Guid(bd79999920190574a94044b2acad7316) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '346a01966b083f16bee5c99a501e25c5') in 0.4755303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/DungeonGenerator-master/Assets/cube.fbx
+  artifactKey: Guid(5db83a20e204ec94db6138dc8b0fdc6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/cube.fbx using Guid(5db83a20e204ec94db6138dc8b0fdc6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'edec72fbd6488943e7d18cee663a9742') in 0.3175331 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Green.mat
+  artifactKey: Guid(13cd47135277903479d4b55421faa42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Green.mat using Guid(13cd47135277903479d4b55421faa42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16f6ef6155ba618603b1521190cc6d87') in 0.0322416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Red.mat
+  artifactKey: Guid(71673d9873285904ab00282788add27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Red.mat using Guid(71673d9873285904ab00282788add27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '851b9a74657ce12eb925d17539463f47') in 0.0187627 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/DungeonGenerator-master/Assets/cube.prefab
+  artifactKey: Guid(3fb4ddafbd160274ba8f07a1cf8cd5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/cube.prefab using Guid(3fb4ddafbd160274ba8f07a1cf8cd5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e87d7fdfb377ac3a41dbc2d661563fff') in 0.0244499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.854 seconds
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.816 seconds
+Domain Reload Profiling: 1666ms
+	BeginReloadAssembly (249ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (496ms)
+		LoadAssemblies (415ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (222ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (203ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (816ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (636ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (128ms)
+			ProcessInitializeOnLoadAttributes (454ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 2.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3722 unused Assets / (1.1 MB). Loaded Objects now: 4258.
+Memory consumption went from 86.6 MB to 85.5 MB.
+Total: 5.763700 ms (FindLiveObjects: 0.430200 ms CreateObjectMapping: 0.430500 ms MarkObjects: 3.862900 ms  DeleteObjects: 1.039200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 15.022148 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Scripts3D
+  artifactKey: Guid(34ff308ff00e24f48a220380bc4c0312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Scripts3D using Guid(34ff308ff00e24f48a220380bc4c0312) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15d62c7df75ed3d8044cf22c49599658') in 0.0045369 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.937208 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Dungeon3D.unity
+  artifactKey: Guid(bdeeb250fb5d6b547b7f0ca94d1071ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Dungeon3D.unity using Guid(bdeeb250fb5d6b547b7f0ca94d1071ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c65a6e2d42686ad37d92304e915ad1b3') in 0.0005985 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.891793 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Dungeon2D.unity
+  artifactKey: Guid(8b3bd1ddfab30754f89fe68b8bae761b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Dungeon2D.unity using Guid(8b3bd1ddfab30754f89fe68b8bae761b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3787c690d492ac6148d6a7b2231f3a43') in 0.0008899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.356780 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Dungeon3D
+  artifactKey: Guid(562bb92e99c750b44b62244638356e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Dungeon3D using Guid(562bb92e99c750b44b62244638356e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '56839228503c116a1d5e992939415c5b') in 0.0005998 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058584 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Dungeon3D/LightingData.asset
+  artifactKey: Guid(46d8993e0ab97e7499432fdc05f4ff4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Dungeon3D/LightingData.asset using Guid(46d8993e0ab97e7499432fdc05f4ff4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5832c3aad90935aceb09a19b7a4fe327') in 0.0292444 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Dungeon3D/ReflectionProbe-0.exr
+  artifactKey: Guid(9e23c88d5a5c6644a960db3f9228e86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Dungeon3D/ReflectionProbe-0.exr using Guid(9e23c88d5a5c6644a960db3f9228e86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a915d109f30735f65a175c7bf158164') in 0.0916326 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.959315 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Dungeon2D
+  artifactKey: Guid(3a30428e9bc93884fa00c0e6182b7935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Dungeon2D using Guid(3a30428e9bc93884fa00c0e6182b7935) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'acfa8ddf21546c0eec9559924cea2fad') in 0.000708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118036 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Dungeon2D/LightingData.asset
+  artifactKey: Guid(c6f0017d9c3eefc40927adcda33955b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Dungeon2D/LightingData.asset using Guid(c6f0017d9c3eefc40927adcda33955b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c9a5e5d519aaf7bb69c5c31793e86037') in 0.0018623 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Dungeon2D/ReflectionProbe-0.exr
+  artifactKey: Guid(8cfed78eec4d66f409fad043ad798555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Dungeon2D/ReflectionProbe-0.exr using Guid(8cfed78eec4d66f409fad043ad798555) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b4422bc3e6ed3a44926574520960bd7') in 0.0261626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.012406 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja
+  artifactKey: Guid(d82e191f20f09f04091c09d5c91a2096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja using Guid(d82e191f20f09f04091c09d5c91a2096) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1755e42c24f555785a13740b97bdd395') in 0.0005977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.544119 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/FastPriorityQueue.cs
+  artifactKey: Guid(66bbfe734659d864f97c997af4db2dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/FastPriorityQueue.cs using Guid(66bbfe734659d864f97c997af4db2dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '926d878186b808737b58c1f152210f4a') in 0.0006254 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.976333 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/FastPriorityQueueNode.cs
+  artifactKey: Guid(2cb172285fdbd9a4787fb0d1e622cd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/FastPriorityQueueNode.cs using Guid(2cb172285fdbd9a4787fb0d1e622cd65) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db233d52b4abaf57ebe33fc96f296a8d') in 0.000578 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.778391 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/GenericPriorityQueue.cs
+  artifactKey: Guid(50c48c195ba0ea945a56fa9ad2035530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/GenericPriorityQueue.cs using Guid(50c48c195ba0ea945a56fa9ad2035530) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a6c8211c79b1672b11ad4c164117b1d') in 0.0006372 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.612691 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/GenericPriorityQueueNode.cs
+  artifactKey: Guid(b179a2b06c4da8f4c8df7926549cc465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/GenericPriorityQueueNode.cs using Guid(b179a2b06c4da8f4c8df7926549cc465) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b097bfcb925b72ef65799d79fb57695') in 0.0005589 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.224253 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/IFixedSizePriorityQueue.cs
+  artifactKey: Guid(e5579306543d2f04a9c56d2c7135abc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/IFixedSizePriorityQueue.cs using Guid(e5579306543d2f04a9c56d2c7135abc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21296150eff4a0415cfcfd4ef790e277') in 0.0008977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.066671 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/IPriorityQueue.cs
+  artifactKey: Guid(d704069c27fb8ef4b840a4d5a2f5c915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/IPriorityQueue.cs using Guid(d704069c27fb8ef4b840a4d5a2f5c915) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '424b370f3c907d5a86820c3ac09495fb') in 0.0009209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.277414 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Scripts3D/Grid3D.cs
+  artifactKey: Guid(16598557375878c438d06e0b932e60cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Scripts3D/Grid3D.cs using Guid(16598557375878c438d06e0b932e60cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70ba4898e5c926cef0194998986eaea5') in 0.0005636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.856241 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Scripts3D/Generator3D.cs
+  artifactKey: Guid(8b2adc24e688e8841887873ee6b3e08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Scripts3D/Generator3D.cs using Guid(8b2adc24e688e8841887873ee6b3e08f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '90d859b0943b3b61e2fc0f573e41697a') in 0.0006126 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.193065 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Scripts3D/DungeonPathfinder3D.cs
+  artifactKey: Guid(21017005a3bf7f2429289daa20664770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Scripts3D/DungeonPathfinder3D.cs using Guid(21017005a3bf7f2429289daa20664770) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'acd23db5f4f5e43f9ba3455e2ce2c1b8') in 0.0286139 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037695 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Scripts3D/Delaunay3D.cs
+  artifactKey: Guid(e302697beb50a5645b4091543574010b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Scripts3D/Delaunay3D.cs using Guid(e302697beb50a5645b4091543574010b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'edc70f91b94601abd3458a0a0097b348') in 0.0022122 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.113894 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/LICENSE.txt
+  artifactKey: Guid(da15807020375bb498784fbd4029c624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/LICENSE.txt using Guid(da15807020375bb498784fbd4029c624) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ece8172fadb306d369d4a9097eb2ffa5') in 0.0017422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.823911 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/SimplePriorityQueue.cs
+  artifactKey: Guid(60d308ffee71e8e448b0dfc6fa443d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/SimplePriorityQueue.cs using Guid(60d308ffee71e8e448b0dfc6fa443d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc22479e83513f3bd8e31fa537383402') in 0.0005891 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.853468 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/StablePriorityQueue.cs
+  artifactKey: Guid(ede8c8ac4c130214a8e715b024c31308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/StablePriorityQueue.cs using Guid(ede8c8ac4c130214a8e715b024c31308) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21a9568c961a2f97579270bf376de06d') in 0.0009016 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.424749 seconds.
+  path: Assets/DungeonGenerator-master/Assets/BlueRaja/StablePriorityQueueNode.cs
+  artifactKey: Guid(1600a5fd8f1cb47438c54d179bca997d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/BlueRaja/StablePriorityQueueNode.cs using Guid(1600a5fd8f1cb47438c54d179bca997d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '097182498e913bf58ce31f4376cbfe38') in 0.0005931 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.353457 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Scripts2D
+  artifactKey: Guid(de55a5fefcf115249a57c8ff521df514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Scripts2D using Guid(de55a5fefcf115249a57c8ff521df514) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9cf6344a4f906c5678ba092f74636b5e') in 0.0006204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.988282 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Scripts2D/Grid2D.cs
+  artifactKey: Guid(d2e731c8222f1ed4c8747f7de56c9d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Scripts2D/Grid2D.cs using Guid(d2e731c8222f1ed4c8747f7de56c9d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3ee367833432d1aaecc8c0d9c81d73f') in 0.0009635 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.354030 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Graphs.cs
+  artifactKey: Guid(75fb0d5115c7d7a498bd383b1ededfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Graphs.cs using Guid(75fb0d5115c7d7a498bd383b1ededfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fcd7a4a751415700a20bd0802e906971') in 0.0005893 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.705680 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Prim.cs
+  artifactKey: Guid(e97384ee517bc9542950c3f1a82f32e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Prim.cs using Guid(e97384ee517bc9542950c3f1a82f32e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b38260db26f148d796ddbbcff2981c81') in 0.0008336 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.494803 seconds.
+  path: Assets/DungeonGenerator-master/Assets/Rotator.cs
+  artifactKey: Guid(0fd63d7ca03dc8447bb007f7820c0060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonGenerator-master/Assets/Rotator.cs using Guid(0fd63d7ca03dc8447bb007f7820c0060) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ccf07310d8f538a8e058a2442a8a220') in 0.0005738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+

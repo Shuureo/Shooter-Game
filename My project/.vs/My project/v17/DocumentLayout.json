@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\prim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\prim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\graphs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\graphs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\fastpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\fastpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\fastpriorityqueuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\fastpriorityqueuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\genericpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\genericpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\genericpriorityqueuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\genericpriorityqueuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\ifixedsizepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\ifixedsizepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\ipriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\ipriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\simplepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\simplepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\stablepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\stablepriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\blueraja\\stablepriorityqueuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\blueraja\\stablepriorityqueuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\scripts3d\\dungeonpathfinder3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\scripts3d\\dungeonpathfinder3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\scripts3d\\delaunay3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\scripts3d\\delaunay3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\scripts3d\\grid3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\scripts3d\\grid3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\leona\\onedrive\\dokumenter\\github\\shooter-game\\my project\\assets\\dungeongenerator-master\\assets\\scripts3d\\generator3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dungeongenerator-master\\assets\\scripts3d\\generator3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rotator.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Rotator.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\Rotator.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Rotator.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\Rotator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:11:36.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prim.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Prim.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\Prim.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Prim.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\Prim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:11:34.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graphs.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Graphs.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\Graphs.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Graphs.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\Graphs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:11:32.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FastPriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\FastPriorityQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\FastPriorityQueue.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\FastPriorityQueue.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\FastPriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:11:00.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FastPriorityQueueNode.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\FastPriorityQueueNode.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\FastPriorityQueueNode.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\FastPriorityQueueNode.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\FastPriorityQueueNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:10:59.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericPriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\GenericPriorityQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\GenericPriorityQueue.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\GenericPriorityQueue.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\GenericPriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:10:58.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericPriorityQueueNode.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\GenericPriorityQueueNode.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\GenericPriorityQueueNode.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\GenericPriorityQueueNode.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\GenericPriorityQueueNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:10:58.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFixedSizePriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\IFixedSizePriorityQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\IFixedSizePriorityQueue.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\IFixedSizePriorityQueue.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\IFixedSizePriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:10:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\IPriorityQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\IPriorityQueue.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\IPriorityQueue.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\IPriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:10:56.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimplePriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\SimplePriorityQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\SimplePriorityQueue.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\SimplePriorityQueue.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\SimplePriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:10:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StablePriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\StablePriorityQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\StablePriorityQueue.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\StablePriorityQueue.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\StablePriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:10:55.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StablePriorityQueueNode.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\StablePriorityQueueNode.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\StablePriorityQueueNode.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\StablePriorityQueueNode.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\BlueRaja\\StablePriorityQueueNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:10:53.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delaunay3D.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Delaunay3D.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Delaunay3D.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Delaunay3D.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Delaunay3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:08:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DungeonPathfinder3D.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\DungeonPathfinder3D.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\DungeonPathfinder3D.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\DungeonPathfinder3D.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\DungeonPathfinder3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:08:46.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Grid3D.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Grid3D.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Grid3D.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Grid3D.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Grid3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:08:46.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Generator3D.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Generator3D.cs",
+              "RelativeDocumentMoniker": "Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Generator3D.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Dokumenter\\GitHub\\Shooter-Game\\My project\\Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Generator3D.cs",
+              "RelativeToolTip": "Assets\\DungeonGenerator-master\\Assets\\Scripts3D\\Generator3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:08:33.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
